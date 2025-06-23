@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧋 Just a Taiwanese developer and a 肥宅 🧋
+🧋Just a Taiwanese developer🧋
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/c2c07118-c180-40f9-b833-13dfb4145dba" />
 
